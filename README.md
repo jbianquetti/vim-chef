@@ -4,7 +4,7 @@ vim-chef
 Vim plugins for chef (syntax highliting and autocomplete snipmate)
 
 
-Install with dependencies using `Vundle`
+Install with dependencies using `Vundle` => https://github.com/gmarik/vundle
 ===============
 
 ```
